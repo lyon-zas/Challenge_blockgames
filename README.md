@@ -2,6 +2,7 @@
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
 
+DEPLOYED WEBSITE:https://wild-sugar.surge.sh/
 
 > 🤖 Smart contracts are kind of like "always on" *vending machines* that **anyone** can access. Let's make a decentralized, digital currency. Then, let's build an unstoppable vending machine that will buy and sell the currency. We'll learn about the "approve" pattern for ERC20s and how contract to contract interactions work.  
 
